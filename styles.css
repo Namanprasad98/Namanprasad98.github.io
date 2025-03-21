@@ -36,6 +36,7 @@ main {
 .finance-img {
     display: block;
     max-width: 100%;
+    img-align: center;
     height: auto;
     border-radius: 10px;
     margin: 20px 0;
